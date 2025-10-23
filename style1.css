@@ -1,0 +1,101 @@
+/* div {
+    height: 100px;
+    background-color: pink;
+    width: 200px;
+}
+
+h1 {
+    width: 200px;
+    height: 50px;
+    background-color: aquamarine;
+}
+
+p {
+    /* border: 2px;
+    border-style: solid;
+    border-color: black;*/
+/* background-color: lightgrey;
+    border: 2px solid black; */
+/* shorthand property*/
+/* border-radius: 5px; */
+/* padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-top: 10px; */
+/* padding: 10px 10px 20px 20px;
+    margin-top: 15px;
+} */
+
+/* div {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+} */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#navbar {
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    color: white;
+
+}
+
+button {
+    background-color: #f08804;
+}
+
+#logo {
+    color: #f08804;
+    font-size: 20px;
+}
+
+a {
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;
+}
+
+
+div {
+    width: 100px;
+    height: 20px;
+    margin: 20px;
+    padding: 10px;
+    display: inline-block;
+}
+
+/* #box1 {
+    visibility: hidden;
+}
+
+#box2 {
+    background-color: rgba(255, 0, 0, 0.5);
+} */
+
+
+/* button {
+    display: block;
+} */
+
+.contentBox {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#content {
+    height: 500px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,73 @@
+/* #box1 {
+    height: 100px;
+    width: 200px;
+    background-color: rosybrown;
+    font-size: 10px;
+
+}
+
+#box2 {
+    height: 50px;
+    /* width: 50px; */
+/* width: 30%;
+    background-color: lightblue;
+    margin-left: 10%;
+    font-size: 2em; */
+/* 2 times of parent element font size */
+/* width: 5em;
+    height: 10vh; 
+} 
+*/
+/* div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+} */
+
+/* #box1 {
+    position: static;
+}
+
+#box2 {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+#box3 {
+    position: sticky;
+    top: 10px;
+    right: 20px;
+}
+
+#box4 {
+    position: fixed;
+    right: 10px;
+
+    z-index: 1;
+} */
+/* body {
+    background-image: url("image2.jpg");
+    background-size: cover;
+    height: 100px;
+}
+
+#box1 {
+    background-image: url("image1.jpg");
+    background-size: cover;
+    height: 100px;
+} */
+
+div {
+    height: 100px;
+    width: 100px;
+    background-image: url("image2.jpg");
+    background-size: cover;
+    color: wheat;
+    position: absolute;
+    right: 0px;
+    position: fixed;
+    top: 50px;
+}
